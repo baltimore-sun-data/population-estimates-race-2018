@@ -1,5 +1,18 @@
 # Baltimore area 2018 population by demographic characteristics analysis
 
+## The data
+
+The following raw data files were downloaded from the U.S. Census Bureau and pre-proccessed in "processing" notebook [`01_processing.ipynb`](https://nbviewer.jupyter.org/github/baltimore-sun-data/population-estimates-race-2018/blob/master/01_processing.ipynb) prior to analysis:
+
+**For the 2010-18 period (all counties downloaded)**
+- [**Vintage 2018 county population estimates by demographic characteristics**](https://www.census.gov/data/tables/time-series/demo/popest/2010s-counties-detail.html)
+
+**For the 2000-10 period (only Maryland counties downloaded)**
+- [**County Intercensal Datasets: 2000-2010**](https://www.census.gov/data/datasets/time-series/demo/popest/intercensal-2000-2010-counties.html)
+
+**For the 1990-99 period (all counties downloaded)**
+- [**State and County Intercensal Datasets: 1990-2000**](https://www.census.gov/data/datasets/time-series/demo/popest/intercensal-1990-2000-state-and-county-characteristics.html)
+
 ## Baltimore Sun analysis
 
 By [Christine Zhang](mailto:czhang@baltsun.com)
